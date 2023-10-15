@@ -26,7 +26,7 @@ To get started with PyPlanner, follow these steps:
 ## Dependencies
 
 - Python 3.x
-- tkinter (usually included with Python)
+- Flask (pip install flask)
 
 ## License
 
